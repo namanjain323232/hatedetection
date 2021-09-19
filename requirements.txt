@@ -1,3 +1,4 @@
+pygame==1.9.6
 attrs==19.3.0
 backcall==0.2.0
 click==7.1.2
@@ -24,7 +25,6 @@ parso==0.7.0
 pickleshare==0.7.5
 Pillow==7.2.0
 prompt-toolkit==3.0.5
-pygame==1.9.6
 Pygments==2.6.1
 pyparsing==2.4.7
 pytagcloud==0.3.5
