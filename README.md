@@ -9,7 +9,7 @@ The app features an interpretation schema that aims to explain the given predict
 ### Live Version:
 The app is hosted on HEROKU and can be found at: https://hatedetection.herokuapp.com/
 
-## Screenshots:
+## I/O Screenshots:
 ![](/static/6.png?raw=true "")
 ![](/static/2.png?raw=true "")
 ![](/static/3.png?raw=true "")
