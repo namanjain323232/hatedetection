@@ -9,9 +9,11 @@ The app features an interpretation schema that aims to explain the given predict
 ### Live Version:
 The app is hosted on HEROKU and can be found at: https://hatedetection.herokuapp.com/
 
+## Flowchart:
+![](/static/1.png?raw=true "")
+
 ## Screenshots:
 ![](/static/6.png?raw=true "")
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-flowchart-for-detecting-abusive-comments_fig1_334070406&psig=AOvVaw0pg35mnq00Jn7ymz7HJES8&ust=1632218705376000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNif6NGmjfMCFQAAAAAdAAAAABAk?raw=true "")
 ![](/static/2.png?raw=true "")
 ![](/static/3.png?raw=true "")
 ![](/static/4.png?raw=true "")
