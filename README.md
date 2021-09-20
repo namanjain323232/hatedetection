@@ -15,6 +15,8 @@ The app is hosted on HEROKU and can be found at: https://hatedetection.herokuapp
 ![](/static/3.png?raw=true "")
 ![](/static/4.png?raw=true "")
 ![](/static/5.png?raw=true "")
+
+## Flowchart:
 ![](/static/1.png?raw=true "")
  
  ### References:
