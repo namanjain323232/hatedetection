@@ -18,6 +18,4 @@ The app is hosted by HEROKU and can be found at: https://hatedetection.herokuapp
 ![](/static/5.png?raw=true "")
  
  ### References:
- Dataset originates from the paper cited below and can be found at: https://github.com/t-davidson/hate-speech-and-offensive-language. 
- 
  Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv. https://arxiv.org/pdf/1703.04009.pdf
