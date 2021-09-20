@@ -6,7 +6,7 @@ The predictive model is then deployed in a Web App, allowing users to enter any 
 
 The app features an interpretation schema that aims to explain the given prediction applying the LIME method, that utilizes white box models in order to interpret decisions of black box models.
 
-### Online version:
+### Live Version:
 The app is hosted by HEROKU and can be found at: https://hatedetection.herokuapp.com/
 
 ## Screenshots:
